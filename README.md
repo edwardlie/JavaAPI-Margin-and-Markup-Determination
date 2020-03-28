@@ -1,6 +1,6 @@
 # JavaAPI
 Margin and Markup Determination
-To use this application, download Eclipse IDE, Apache Tomcat server, and all packages in folder. Run in server when running application and use link provided in .java. code to access web page.
+To use this application, download Eclipse IDE, Apache Tomcat server, and all packages in folder. Run in server when running application and use link provided in .java code to access web page.
 
 Summary of project: Application takes company name, revenue, and cost of goods and services and calculates profit and markup information. 
 
